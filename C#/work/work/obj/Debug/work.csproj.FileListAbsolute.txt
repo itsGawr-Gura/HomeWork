@@ -1,0 +1,7 @@
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\bin\Debug\work.exe.config
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\bin\Debug\work.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\bin\Debug\work.pdb
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\obj\Debug\work.csproj.AssemblyReference.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\obj\Debug\work.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\work\work\obj\Debug\work.pdb
